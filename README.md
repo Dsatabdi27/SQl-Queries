@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Dsatabdi27/SQl-Queries/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Dsatabdi27/SQl-Practice/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/Dsatabdi27/SQl-Practice/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dsatabdi27/SQl-Queries/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/Dsatabdi27/SQl-Practice/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Dsatabdi27/SQl-Queries/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Dsatabdi27/SQl-Queries/tree/master/1908-recyclable-and-low-fat-products) |
